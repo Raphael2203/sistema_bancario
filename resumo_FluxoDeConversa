@@ -1,0 +1,17 @@
+O que é um Fluxo de Conversa Personalizado?
+É a capacidade de estruturar como o Copiloto interage com os usuários, definindo os caminhos que a conversa pode seguir. Você pode criar tópicos específicos, configurar respostas dinâmicas e até mesmo usar variáveis para personalizar as interações com base nas informações fornecidas pelo usuário.
+Como Funciona no Microsoft Copilot Studio?
+- Definição de Objetivos:
+Comece identificando o propósito do seu Copiloto. Ele pode ajudar em tarefas como responder perguntas frequentes, realizar agendamentos ou fornecer suporte técnico. Definir o objetivo é essencial para criar um fluxo de conversa eficaz.
+- Criação de Tópicos:
+No Copilot Studio, você pode criar tópicos que representam diferentes partes da conversa. Por exemplo, um tópico pode ser "Consultar Saldo" e outro "Agendar Reunião". Cada tópico é como um capítulo da interação.
+- Respostas Personalizadas:
+Dentro de cada tópico, você pode configurar respostas fixas ou dinâmicas. Respostas dinâmicas permitem que o Copiloto adapte suas mensagens com base no contexto ou nas informações fornecidas pelo usuário.
+- Uso de Variáveis e Entidades:
+Para tornar a conversa mais inteligente, você pode usar variáveis para armazenar informações durante a interação, como o nome do cliente ou o horário de uma reunião. Entidades ajudam a capturar dados específicos, como números de telefone ou endereços.
+- Fluxos Condicionais:
+Adicione condições para guiar a conversa com base nas respostas do usuário. Por exemplo, se o usuário responder "Sim", o Copiloto pode oferecer uma opção adicional; se responder "Não", pode encerrar a interação ou sugerir outra alternativa.
+- Testes e Ajustes:
+Antes de publicar, teste o fluxo de conversa para garantir que ele funcione como esperado. Simule diferentes cenários para verificar se o Copiloto responde corretamente em todas as situações.
+
+
