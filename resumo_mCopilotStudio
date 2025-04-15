@@ -1,0 +1,14 @@
+O Microsoft Copilot Studio é como um playground para criar assistentes inteligentes personalizados, conhecidos como copilots. Ele foi projetado para ser acessível, mesmo para quem não tem experiência em programação. Com uma interface intuitiva e ferramentas de baixo código, você pode criar agentes que ajudam em tarefas específicas, automatizam processos e até interagem com usuários de forma natural.
+Principais Funcionalidades
+- Criação de Agentes Personalizados:
+Você pode criar um copilot que se adapta às suas necessidades, seja para responder perguntas, realizar tarefas ou simplificar processos. Basta descrever o que você quer que ele faça e o estilo de conversa que ele deve ter. Por exemplo, você pode criar um agente amigável para suporte ao cliente ou um assistente formal para recursos humanos.
+- Automação de Tarefas:
+Os copilots podem ser configurados para executar ações automáticas, como enviar relatórios, atualizar informações ou até mesmo integrar novos funcionários. Isso é feito conectando o agente a fluxos de trabalho e dados empresariais.
+- Conexão com Dados e Serviços:
+O Copilot Studio permite que você conecte seu agente a fontes de dados, como Microsoft Graph, Dataverse e outros sistemas. Isso aumenta a capacidade do agente de fornecer respostas precisas e realizar tarefas complexas.
+- Publicação em Canais:
+Depois de criar seu copilot, você pode publicá-lo em plataformas como Microsoft Teams, SharePoint ou até mesmo em redes sociais. Isso garante que ele esteja disponível onde as pessoas mais precisam.
+- Gerenciamento Centralizado:
+O Copilot Studio oferece um painel de administração para gerenciar todos os seus agentes. Você pode monitorar o desempenho, ajustar configurações e garantir a segurança dos dados.
+
+
